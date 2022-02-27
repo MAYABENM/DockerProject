@@ -9,6 +9,5 @@ Pour que cette application fontionne, y avait une liste de dépendances à insta
 Flask qui est le Framework que Python utilise et Redis qui est le Driver qui permet de se connecter à une base de données Redis.
 Dockerfile est un fichier qui va me permettre de de créer une image.
 Les liens dockerhub : 
-https://hub.docker.com/_/python?tab=tags .
-https://hub.docker.com/_/redis?tab=tags .
-On voit bien que ce sont des images officielles.
+https://hub.docker.com/_/python?tab=tags 
+https://hub.docker.com/_/redis?tab=tags 
